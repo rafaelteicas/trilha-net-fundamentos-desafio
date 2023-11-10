@@ -1,0 +1,14 @@
+/home/rafael/Documentos/C#/bin/Debug/net7.0/C#
+/home/rafael/Documentos/C#/bin/Debug/net7.0/C#.deps.json
+/home/rafael/Documentos/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/home/rafael/Documentos/C#/bin/Debug/net7.0/C#.dll
+/home/rafael/Documentos/C#/bin/Debug/net7.0/C#.pdb
+/home/rafael/Documentos/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Documentos/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/home/rafael/Documentos/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/home/rafael/Documentos/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/home/rafael/Documentos/C#/obj/Debug/net7.0/C#.dll
+/home/rafael/Documentos/C#/obj/Debug/net7.0/refint/C#.dll
+/home/rafael/Documentos/C#/obj/Debug/net7.0/C#.pdb
+/home/rafael/Documentos/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/home/rafael/Documentos/C#/obj/Debug/net7.0/ref/C#.dll
